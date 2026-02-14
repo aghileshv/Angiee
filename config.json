@@ -1,0 +1,148 @@
+{
+  "names": {
+    "sender": "AGHILESH",
+    "receiver": "ANGEL KEREN ❤️"
+  },
+  "theme": {
+    "primaryColor": "#ff7ab2",
+    "secondaryColor": "#ff4d8d",
+    "accentColor": "#ffc0cb",
+    "fontFamily": "Arial, sans-serif"
+  },
+  "content": {
+    "title": "Will you be my Valentine?",
+    "subtitle": "Choose wisely. (The \"No\" button is... shy.)",
+    "yesButtonText": "YES ❤️",
+    "noButtonText": "NO 💔",
+    "successMessage": "💖 YAYYYYY!!! 💖",
+    "successSubtitle": "That's the best decision you've ever made ❤️😘",
+    "giftsTitle": "💝 Your Valentine Gifts 💝",
+    "giftsSubtitle": "Click here for the Valentine gifts, Panda Kutti😘",
+    "songsTitle": "My Love Sounds Like This!🎵",
+    "photosTitle": "Every Moment with You!📸",
+    "letterTitle": "To the Girl I Love most!❤️",
+    "prosConsTitle": "Why You Should Choose me as Your Valentine ❤️",
+    "prosConsSubtitle": "Nothing!!!!"
+  },
+  "media": {
+    "mainBearGif": "/assets/cute-bear.gif",
+    "musicBearGif": "/assets/music-bear.gif",
+    "comfortBearGif": "/assets/comfort-bear.gif",
+    "kissBearGif": "/assets/kiss-bears.gif",
+    "photoBearGif": "/assets/photo-bear.gif",
+    "loveYouBearGif": "/assets/love-you-bear.gif",
+    "childGif": "/assets/child.gif",
+    "roseBearGif": "/assets/rose-bear.gif",
+    "cookBearGif": "/assets/cook-bear.gif",
+    "kissSingleBearGif": "/assets/kiss-bear.gif",
+    "leftButton": "/assets/left-button.png",
+    "rightButton": "/assets/right-button.png",
+    "envelopeSeal": "❤️"
+  },
+  "gifts": {
+    "gift1": "/assets/gift/gift1.jpg",
+    "gift2": "/assets/gift/gift2.jpg", 
+    "gift3": "/assets/gift/gift3.jpg"
+  },
+  "couplePhotos": [
+    {
+      "image": "/assets/couple_photo/photo1.jpeg",
+      "caption": "Our first special moment together our first date and meet"
+    },
+    {
+      "image": "/assets/couple_photo/photo2.jpg", 
+      "caption": "the first time u hold my hands"
+    },
+    {
+      "image": "/assets/couple_photo/photo_3.jpg",
+      "caption": "our Big Day with lot of time "
+    },
+    {
+      "image": "/assets/couple_photo/photo5.jpg",
+      "caption": "the closeness made us to feel the world soo beautiful"
+    },
+    {
+      "image": "/assets/couple_photo/photo6.jpg",
+      "caption": "The Kiss which makes me feel like a child "
+    },
+    {
+      "image": "/assets/couple_photo/photo9.jpg",
+      "caption": "U r my world and we are the cutest couple ever and ever"
+    }
+  ],
+  "prosCons": [
+    {
+      "gif": "/assets/cook-bear.gif",
+      "text": "I'll cook your fav food for my little princess"
+    },
+    {
+      "gif": "/assets/comfort-bear.gif", 
+      "text": "Unlimited comfort and care"
+    },
+    {
+      "gif": "/assets/cute-bear.gif",
+      "text": "I listen… like actually listen"
+    },
+    {
+      "gif": "/assets/kiss-bears.gif",
+      "text": "Unlimited hugs & kisses which makes me better in all situations"
+    },
+    {
+      "gif": "/assets/photo-bear.gif",
+      "text": "Your personal photographer for all the cute moments 📸"
+    },
+    {
+      "gif": "/assets/music-bear.gif",
+      "text": "Live singing performances… just for you 🎶😉"
+    }
+  ],
+  "songs": [
+    {
+      "id": 1,
+      "title": "Kannana-Kanne",
+      "duration": "4:27",
+      "album": "Naanum Rowdydhaan",
+      "artist": "",
+      "cover": "/assets/album-covers/photo8.jpg",
+      "audio": "/assets/songs/Kannana-Kanne.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Kadhaippoma",
+      "duration": "4:42", 
+      "album": "Oh My Kadavule",
+      "artist": "",
+      "cover": "/assets/album-covers/photo12.jpg",
+      "audio": "/assets/songs/Kadhaippoma.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Mudhal-Nee-Mudivum",
+      "duration": "05:32",
+      "album": "Mudhal-Nee-Mudivum",
+      "artist": "",
+      "cover": "/assets/album-covers/photo11.jpg",
+      "audio": "/assets/songs/Mudhal-Nee-Mudivum.mp3"
+    }
+  ],
+  "letter": {
+    "title": "En amma ithu unakana kaditham,",
+    "content": [
+      "Love u sooooo much Angel Miss u a lotzzzzzz 🥺 \nThx for all rombooo thx angel nee en amma enna nalla pathukura neee enkooda vae iru enaku athu pothum The changer of my life Nee enaku fantasy vidavum mela 6 th angel is mine nu ninaikum pothu oru maari tears nikkuthu kannula I have craved  for ur love the love on u never ever stops na sethae ponalum It never stops i will be with always ever and ever unnoda happiness la irukuratha vida nee patta ellam kastam maranthu ini happiness na enna love na enna nu daily each sec of ur life u should be feel loved athu pothum enaku 🥺 love u angel my life unna kolantha pola appa va paathupa, i will be ur sky ethu naalum enna thadi unna varum ."
+    ],
+    "signature": "Forever yours,\nPanni Kutti😘"
+  },
+  "navigation": {
+    "backToLove": "Back to Love",
+    "backToGifts": "Back to Gifts",
+    "backToPhotos": "Back to Photos",
+    "backToSongs": "Back to Songs",
+    "backToLetter": "Back to Letter"
+  },
+  "tooltips": {
+    "previous": "Previous",
+    "next": "Next",
+    "play": "Play",
+    "pause": "Pause"
+  }
+}
